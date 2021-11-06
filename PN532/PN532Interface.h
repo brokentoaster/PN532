@@ -15,6 +15,7 @@
 
 #define PN532_ACK_WAIT_TIME           (10)  // ms, timeout of waiting for ACK
 
+#define PN532_SUCCESS                 (0)
 #define PN532_INVALID_ACK             (-1)
 #define PN532_TIMEOUT                 (-2)
 #define PN532_INVALID_FRAME           (-3)
